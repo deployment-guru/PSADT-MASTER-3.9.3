@@ -1,0 +1,14 @@
+**Version 3.9.3 [01/06/2023]**
+- Added Set-Host
+  - This Function add a entrie to the hosts file
+
+- Added Remove-Host
+  - This Function Remove a entrie from the hosts file
+
+
+**Version 3.8.4 [01/10/2022]**
+- Added Set-SCCMAppDetectRegistryKey
+  - This Function Record a Value in the registry that can be used for Application Detection in SCCM
+
+- Added Remove-SCCMAppDetectRegistryKey
+  - This Function Remove a Value in the registry that can be used for Application Detection in SCCM
